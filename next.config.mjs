@@ -1,17 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-  images: {
-    unoptimized: true,
-  },
-  basePath: '/LaunchPodLandingPage',
-  assetPrefix: '/LaunchPodLandingPage/',
-}
+  output: 'export', // ✅ 新版本必须这样设置
+  images: { unoptimized: true }, // ✅ 避免 next/image 报错
+};
 
-export default nextConfig
+module.exports = nextConfig;

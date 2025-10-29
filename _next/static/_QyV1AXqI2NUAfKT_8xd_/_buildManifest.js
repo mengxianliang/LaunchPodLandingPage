@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/LaunchPodLandingPage//_next/:path+",
+        "destination": "/LaunchPodLandingPage/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [

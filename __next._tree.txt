@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
+2:I[97367,["/LaunchPodLandingPage/_next/static/chunks/42879de7b8087bc9.js"],"ViewportBoundary"]
+4:I[97367,["/LaunchPodLandingPage/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-:HL["/_next/static/chunks/c40b8bb6104799be.css","style"]
-:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"KKh1dKYcI_LNCB7mp0V8O","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+:HL["/LaunchPodLandingPage/_next/static/chunks/c40b8bb6104799be.css","style"]
+:HL["/LaunchPodLandingPage/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/LaunchPodLandingPage/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"_QyV1AXqI2NUAfKT_8xd_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"LaunchPod - 完美还原 macOS LaunchPad"}],["$","meta","1",{"name":"description","content":"为 macOS 26 用户带回熟悉的 LaunchPad 体验，支持快速启动文件和剪切板管理"}],["$","meta","2",{"name":"generator","content":"v0.app"}]]

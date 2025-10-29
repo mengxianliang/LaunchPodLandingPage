@@ -10,6 +10,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: 'LaunchPodLandingPage',
+  assetPrefix: 'LaunchPodLandingPage',
 }
 
 export default nextConfig
